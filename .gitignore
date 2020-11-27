@@ -1,0 +1,8 @@
+.next
+
+# dotenv environment variables file
+.env
+.env.local
+
+# dependencies
+node_modules
