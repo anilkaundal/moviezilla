@@ -1,9 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Antic+Slab&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap');
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Antic Slab", serif;
+  font-family: 'Exo 2', sans-serif;
 }
 
 body {
@@ -27,6 +28,7 @@ body {
   text-decoration: none;
   color: #f2f5f7;
   font-size: 34px;
+  font-family: 'Kavoon', cursive;
 }
 
 .header .header__cta {
@@ -319,6 +321,7 @@ h1 {
   letter-spacing: 2px;
   margin: 0;
   padding-bottom: 10px;
+  font-family: 'Kavoon', cursive;
 }
 
 h2 {
